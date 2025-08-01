@@ -99,6 +99,8 @@ Key fields:
 
    - 
    - Use of custom functions for economic scoring
+   - 
+<img width="1282" height="598" alt="Screenshot 2025-08-01 070634" src="https://github.com/user-attachments/assets/ba63340d-8593-4a67-8738-ecb2023c684b" />
 
 ---
 

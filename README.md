@@ -59,7 +59,8 @@ Key fields:
 
 ## 🔍 Python Data Analysis Tasks
 
-1. **Data Cleaning**
+1.** MACHINE LEARNING**
+  **Data Cleaning**
    - Standardized region names and categories
    - Converted string numbers to numeric types
    - Handled missing or inconsistent values
@@ -70,7 +71,7 @@ Key fields:
    - <img width="993" height="446" alt="data cleanning" src="https://github.com/user-attachments/assets/f4f9e23f-b219-46f2-a95f-c4aceb6a0a07" />
 
 
-2. **Exploratory Data Analysis (EDA)**
+3. **Exploratory Data Analysis (EDA)**
    - Business count by region and sector
    - Formal vs informal comparison
    - Sector distribution by business size

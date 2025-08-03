@@ -28,7 +28,7 @@ This capstone project explores the distribution and characteristics of formal an
 
 | Attribute         | Description                             |
 |------------------|-----------------------------------------|
-| **Source**       | NISR (https://statistics.gov.rw)        |
+| **Source**       | NISR ([https://statistics.gov.rw](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fstatistics.gov.rw%2Fsites%2Fdefault%2Ffiles%2Fdocuments%2F2025-06%2FIBES%25202023_Tables%2520and%2520Figures.xlsx&wdOrigin=BROWSELINK))        |
 | **Dataset**      | IBES 2023 – Table 1.1 Summary            |
 | **Format**       | CSV (converted from official table)      |
 | **Scope**        | Business count and economic activity     |

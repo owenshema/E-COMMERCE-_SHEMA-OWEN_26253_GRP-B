@@ -65,9 +65,10 @@ Key fields:
    - Converted string numbers to numeric types
    - Handled missing or inconsistent values
   
-   
+   <img width="1068" height="524" alt="Screenshot 2025-08-04 115331" src="https://github.com/user-attachments/assets/fd963814-58f2-42d0-80bd-1d3c79db465c" />
+
 <img width="1068" height="524" alt="Screenshot 2025-08-04 115331" src=<img width="871" height="520" alt="Screenshot 2025-08-04 115345" src="https://github.com/user-attachments/assets/1737d1fc-7794-42d6-839e-de1befbd16e2" />
-"https://github.com/user-attachments/assets/561225d4-eec6-4882-b4d6-8d8925b874f3" />
+
 <img width="1158" height="551" alt="Screenshot 2025-08-04 115404" src="https://github.com/user-attachments/assets/64c41d21-0679-48c7-b261-5960249d330b" />
 
 
